@@ -10,6 +10,7 @@ public class Main {
 		studentName="Emrah";
 		System.out.println(studentAge);
 		System.out.println(studentName+" yaþ "+studentAge);
+		String studentNationalIdentity="46876541231";
 	}
 
 }
